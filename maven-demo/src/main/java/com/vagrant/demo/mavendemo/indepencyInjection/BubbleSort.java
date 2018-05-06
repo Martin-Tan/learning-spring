@@ -1,6 +1,4 @@
-package com.vagrant.demo.mavendemo;
-
-import org.springframework.stereotype.Component;
+package com.vagrant.demo.mavendemo.indepencyInjection;
 
 public class BubbleSort implements SortAlgorithm{
     public int[] sort(int[] numbers) {

@@ -1,4 +1,4 @@
-package com.vagrant.demo.mavendemo;
+package com.vagrant.demo.mavendemo.indepencyInjection;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
